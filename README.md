@@ -9,17 +9,17 @@ Este projeto faz parte do processo Trainee do Computational Inteligence Society 
 ### Observações:
 Os conteúdos utilizados foram:
 1. Convolutional Neural Networks (CNN):
-    Redes Neurais Convolucionais
-     Pré-Processamento de Imagens
-     Dropout
-     Pooling
-     BatchNormalization
-     Callbacks
-     Transfer Learning
-     Freezing Layers
-   Manipulação de Diretórios com bibliotecas
-   Técnicas de avaliação e visualização do treinamento
-   Implementação usando TensorFlow.
+    - Redes Neurais Convolucionais
+     - Pré-Processamento de Imagens
+     - Dropout
+     - Pooling
+     - BatchNormalization
+     - Callbacks
+     - Transfer Learning
+     - Freezing Layers
+   - Manipulação de Diretórios com bibliotecas
+   - Técnicas de avaliação e visualização do treinamento
+   - Implementação usando TensorFlow.
 
 2. Natural Language Processing (NLP):
    - Pré-processamento de textos:
@@ -35,11 +35,11 @@ Os conteúdos utilizados foram:
     - Long-short-term memory (LSTM).
 
 3. Conteúdos adicionais:
-     Pré processamento]
-       Part-of-speech (POS) tagging
-       Named entity recognition (NER)
-       Tokenização, vetorização e n-grams
-     Representação vetorial de textos
-       Word embeddings
-     Modelos de classificação
-       Gated recurrent unit (GRU)
+    - Pré processamento
+       - Part-of-speech (POS) tagging
+       - Named entity recognition (NER)
+       - Tokenização, vetorização e n-grams
+     - Representação vetorial de textos
+       - Word embeddings
+     - Modelos de classificação
+       - Gated recurrent unit (GRU)
