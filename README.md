@@ -21,7 +21,7 @@ Os conteúdos utilizados foram:
    - Técnicas de avaliação e visualização do treinamento
    - Implementação usando TensorFlow.
 
-3. Natural Language Processing (NLP)
+2. Natural Language Processing (NLP):
   a. Pré-processamento de textos:
     - Lowercase, remoção de pontuação, etc
     - Remoção de stopwords
@@ -34,7 +34,7 @@ Os conteúdos utilizados foram:
     - Redes Neurais Recorrentes (RNNs)
     - Long-short-term memory (LSTM).
 
-4. Conteúdos adicionais
+3. Conteúdos adicionais:
   a. Pré processamento
     - Part-of-speech (POS) tagging
     - Named entity recognition (NER)
