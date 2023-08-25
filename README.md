@@ -9,7 +9,7 @@ Este projeto faz parte do processo Trainee do Computational Inteligence Society 
 ### Observações:
 Os conteúdos utilizados foram:
 1. Convolutional Neural Networks (CNN):
-  a. Redes Neurais Convolucionais
+   a. Redes Neurais Convolucionais
     - Pré-Processamento de Imagens
     - Dropout
     - Pooling
@@ -22,25 +22,24 @@ Os conteúdos utilizados foram:
   d. Implementação usando TensorFlow.
 
 3. Natural Language Processing (NLP)
-a. Pré-processamento de textos:
-i. Lowercase, remoção de pontuação, etc;
-ii. Remoção de stopwords;
-iii. Stemming/Lemmatization;
-b. Representação vetorial de textos:
-i. Bag-of-words (BOW);
-ii. Term-frequency inverse document-frequency (TFIDF);
-c. Modelos de classificação:
-i. Modelos clássicos de Machine Learning (Naive Bayes, SVM,
-etc);
-ii. Redes Neurais Recorrentes (RNNs);
-iii. Long-short-term memory (LSTM).
+  a. Pré-processamento de textos:
+    - Lowercase, remoção de pontuação, etc
+    - Remoção de stopwords
+    - Stemming/Lemmatization
+  b. Representação vetorial de textos:
+    - Bag-of-words (BOW)
+    - Term-frequency inverse document-frequency (TFIDF)
+  c. Modelos de classificação:
+    - Modelos clássicos de Machine Learning (Naive Bayes, SVM, etc)
+    - Redes Neurais Recorrentes (RNNs)
+    - Long-short-term memory (LSTM).
 
 4. Conteúdos adicionais
-a. Pré processamento
-i. Part-of-speech (POS) tagging;
-ii. Named entity recognition (NER)
-iii. Tokenização, vetorização e n-grams.
-b. Representação vetorial de textos
-i. Word embeddings
-c. Modelos de classificação
-i. Gated recurrent unit (GRU)
+  a. Pré processamento
+    - Part-of-speech (POS) tagging
+    - Named entity recognition (NER)
+    - Tokenização, vetorização e n-grams
+  b. Representação vetorial de textos
+    - Word embeddings
+  c. Modelos de classificação
+    - Gated recurrent unit (GRU)
